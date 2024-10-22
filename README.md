@@ -1,1 +1,2 @@
 # ManageMyOrders
+The purpose of this project is to develop an application designed to simplify the order processing workflow for a warehouse. A relational database will be used to store information about products, customers, and their orders, ensuring efficient data management.
